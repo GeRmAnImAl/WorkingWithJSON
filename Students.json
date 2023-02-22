@@ -1,0 +1,19 @@
+[ {
+  "lName" : "Germani",
+  "currentCredits" : 12,
+  "totalCredits" : 146,
+  "fName" : "AJ",
+  "gpa" : 3.9
+}, {
+  "lName" : "Nye",
+  "currentCredits" : 12,
+  "totalCredits" : 128,
+  "fName" : "Bill",
+  "gpa" : 4.0
+}, {
+  "lName" : "Ross",
+  "currentCredits" : 8,
+  "totalCredits" : 144,
+  "fName" : "Bob",
+  "gpa" : 3.4
+} ]
